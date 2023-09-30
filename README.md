@@ -36,6 +36,7 @@ The Opening of a new ticket
 
 The various tickets that have been open to be worked upon.
 
+![Post install 24](https://github.com/waleoyecc/ticket-lifecycle/assets/140360882/35e663e1-b5b8-430e-ba4c-144cd93bd7f5)
 
 ![image](https://github.com/waleoyecc/ticket-lifecycle/assets/140360882/19d6d8bc-0716-4a95-b232-aca489f5a7a4)
 
